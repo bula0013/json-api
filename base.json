@@ -1,0 +1,52 @@
+{
+  "items": [
+
+  {
+    "titleItem": "praca",
+    "valueItem": 5000,
+    "type": "Wypłata",
+    "inOut": "Przychody",
+    "date": "2018-02-05"
+  },
+  { "titleItem": "zakupy",
+    "valueItem": -131.11,
+    "type": "zakupy",
+    "inOut": "Wydatki",
+    "date": "2018-02-06"
+  },
+  {
+    "titleItem": "prąd",
+    "valueItem": -77.21,
+    "type": "rachunki",
+    "inOut": "Wydatki",
+    "date": "2018-02-08"
+  },
+  {
+    "titleItem": "kino",
+    "valueItem": -48,
+    "type": "inne",
+    "inOut": "Wydatki",
+    "date": "2018-02-12"
+  },
+  {
+    "titleItem": "korepetycj",
+    "valueItem": 80,
+    "type": "inne",
+    "inOut": "Przychody",
+    "date": "2018-02-15"
+  },
+  {
+    "titleItem": "zakupy",
+    "valueItem": -95.03,
+    "type": "zakupy",
+    "inOut": "Wydatki",
+    "date": "2018-02-14"
+  },
+  { "titleItem": "zakupy",
+    "valueItem": -92.20,
+    "type": "zakupy",
+    "inOut": "Wydatki",
+    "date": "2018-02-03"
+  }
+  ]
+}
